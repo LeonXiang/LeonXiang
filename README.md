@@ -7,5 +7,4 @@ Here is some basic information about me:
 
 - 🔭 I’m currently a graduate student in Transportation.
 - 🌱 I’m currently learning about cloud computing.
-- 📫 How to reach me: gentlexiang58@163.com.
 - 😄 Pronouns: He/Him.
