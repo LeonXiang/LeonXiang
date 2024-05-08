@@ -6,5 +6,5 @@
 Here is some basic information about me:
 
 - 🔭 I’m currently a graduate student in Transportation.
-- 🌱 I’m currently learning about cloud computing.
+- 🌱 I’m currently learning about C++ and Edge Computing.
 - 😄 Pronouns: He/Him.
